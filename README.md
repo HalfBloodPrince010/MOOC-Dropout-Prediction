@@ -6,3 +6,5 @@ In this project, we address MOOC attrition using machine learning techniques for
 We have the feature engineered individual CSV files in the data folder and notebooks contain jupyter notebook of different experiments conducted.
 
 Submissions Folder contain the final submission for the course.
+
+Refer "**Final Project Report**" for the detailed explanation
